@@ -1,1 +1,1 @@
-<?php Already up to date.;
+<?php `git pull`; ?>
